@@ -1,0 +1,2 @@
+# unad-mm-paso-4-programa-1
+Diseño de un robot seguidor de líneas en arduino Uno, Leonardo, o Nano, y un sensor QTR 8 (o sistema infrarrojo para la detección) para la detección de la línea de color negro, 2 motores de 5vd, regulador lm7805, sistema de accionamiento de motores por transistores, tiristores (libre a implementar) y conector de batería de 9vdc. Debe simularse en proteus y desarrollarse en laboratorio de componentepractico.
